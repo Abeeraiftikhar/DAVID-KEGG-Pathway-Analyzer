@@ -17,34 +17,6 @@ A Flask web application based on the supplied Google Colab workflow.
 - 300 DPI PNG exports
 - Responsive browser dashboard
 
-## Run locally
-
-```bash
-python -m venv venv
-```
-
-Windows:
-```bash
-venv\Scripts\activate
-```
-
-macOS/Linux:
-```bash
-source venv/bin/activate
-```
-
-Install:
-```bash
-pip install -r requirements.txt
-```
-
-Run:
-```bash
-python app.py
-```
-
-Open:
-`http://127.0.0.1:5000`
 
 ## Expected DAVID columns
 
