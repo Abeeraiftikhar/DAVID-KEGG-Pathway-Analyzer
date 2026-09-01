@@ -1,0 +1,4 @@
+"Category","Term","Count","List Total","Pop Hits","Pop Total","P-Value","Benjamini","Fold Enrichment","Bonferroni","FDR","Fisher Exact","User Ids"
+"KEGG_PATHWAY","Growth hormone synthesis, secretion and action","4","38","122","9496","1.17e-2","1.00e+0","8.19","8.16e-1","1.00e+0","1.37e-3","SOCS3,CSH2,ADCY4,FOS"
+"KEGG_PATHWAY","Wnt signaling pathway","4","38","174","9496","2.98e-2","1.00e+0","5.74","9.87e-1","1.00e+0","4.95e-3","WNT11,FRZB,RSPO1,DKK1"
+
